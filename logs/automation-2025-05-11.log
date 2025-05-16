@@ -1,0 +1,59 @@
+22:16:41.884 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:16:42.097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:18:14.890 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:18:15.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:18:19.217 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:18:19.379 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:18:19.736 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:18:19.748 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+22:18:20.881 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message......
+22:18:20.922 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:18:23.073 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+22:18:24.275 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+22:26:18.251 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:26:18.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:26:18.692 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:26:22.399 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:26:22.493 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:26:22.859 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:26:22.934 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+22:26:24.449 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message......
+22:26:24.515 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:27:07.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:27:07.299 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:27:07.532 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:11.429 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:11.451 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:11.685 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:27:11.735 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:27:53.848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:27:54.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:27:54.194 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:57.746 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:57.747 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:27:57.925 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:27:57.986 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:29:36.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:29:36.576 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:29:40.739 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:29:40.740 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:29:40.884 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:29:40.927 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:31:24.653 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\pragathi\course\QafoxV121\master.xml"
+22:31:24.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\pragathi\course\QafoxV121\master.xml
+
+22:31:27.347 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+22:31:27.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
